@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashay-agrawal&show_icons=true&locale=en&layout=compact" alt="aashay-agrawal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashay-agrawal&show_icons=true&locale=en" alt="aashay-agrawal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashay-agrawal&" alt="aashay-agrawal" /></p>
